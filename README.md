@@ -21,7 +21,7 @@ TypeEase is a straightforward tool designed to help you manage custom keyboard s
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/typeease.git
+git clone https://github.com/medalha01/typeease.git
 cd typeease
 ```
 
