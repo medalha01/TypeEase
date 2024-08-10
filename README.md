@@ -42,7 +42,7 @@ This will create an executable named `typeease`.
 ### Run the Application
 
 ```bash
-./typeease
+sudo ./typeease
 ```
 
 ## Usage
